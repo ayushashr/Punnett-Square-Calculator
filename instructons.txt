@@ -1,0 +1,34 @@
+Introduction:
+A Punnett square is a graphical tool used in genetics to predict the possible outcomes of a cross between two individuals. It helps visualize the combinations of alleles that offspring can inherit from their parents. Each parent contributes one allele for each trait, and the square displays all possible combinations of these alleles in their progeny.
+
+Instructions:
+
+Number of Traits:
+
+1. The program will start by asking for the number of traits the gene codes for. Enter an integer value. Keep in mind that a large number of traits might not display well on small screens and are relatively rare in practice.
+Example:
+
+Please enter the number of traits the gene codes for (must be an integer): 2
+Also note that with genes that increasing traits will increase needed space for the table
+
+2. After specifying the number of traits, the program will prompt you to enter the alleles for Parent 1. Use the format "Aa" for each trait.
+Example:
+
+    Enter alleles for Parent 1 (e.g., Aa, Bb): Aa
+
+3. Similarly, enter the alleles for Parent 2 following the same format.
+Example:
+
+Enter alleles for Parent 2 (e.g., Aa, Bb): Bb
+
+4. Punnett Square Display:
+
+The Punnett square will be generated based on the provided parental alleles. It will show all possible combinations of alleles in the offspring.
+
+5. Saving Frequencies to a file:
+
+You may save your frequencies to a file to acess and look at later!
+
+Repeat or Exit:
+
+5. If desired, you can repeat the process with different parental alleles by running the program again. Follow any on-screen prompts to exit the Punnett Square Calculator.
